@@ -14,8 +14,8 @@ import webbrowser
 
 #Credentials that give you access to Ciano's Spotify account
 username = '3162onfyedeyw2ineh26nr3ypmoe'
-clientID = '1cf05725ac64449e9005d7e797d10e0e'
-clientSecret = '1660d861e03447c38196fac1093de187'
+clientID = ''
+clientSecret = ''
 redirectURI = 'https://google.com/' 
 
 #Using the spotipy module 
